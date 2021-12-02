@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qp401 (John)
+- 👋 Hi, I’m @qp404 (John)
 - 👀 I’m interested in ... I.T career, Coding and Cybersecurity
 - 🌱 I’m currently learning ... I.T Fundamentals (any pinpoints/guidance where to start or what to learn are welcome and appreciated)
 - 💞️ I’m looking to collaborate on ... (any mentorship in coding or cybersecurity is highly appreciated and welcome)
